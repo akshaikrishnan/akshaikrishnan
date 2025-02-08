@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @akshaikrishnan
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on UI works
-- 📫 How to reach me @ <a href = 'mailto:akshaik143@gmail.com?subject=Github&body=hi'>e-mail</i></a> | <a href = 'https://dribbble.com/akshaicuts'>Dribbble</a>  | <a href = 'https://www.behance.net/akshaikrishna'>Behance</a> 
+👋 Hey there! I'm Akshai Krishnan! 👋
 
+💻 I'm a full-stack MER/AN developer with over 7 years of experience crafting web magic! ✨
+🚀  Experienced in the whole stack, from frontend finesse to backend boldness. 💪
+🎨  Plus, I've got a UI/UX design background and played around with Next.js and LoopBack 4 (IBM). 😎
 
-<!---
-akshaikrishnan/akshaikrishnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently diving into the world of Spring Boot. 📚
+
+🌐  Check out my personal corner of the web at [akshai.dev](https://akshai.dev) 🔗
+📧  Want to chat? Shoot me a mail at [akshaiux@gmail.com](mailto:akshaiux@gmail.com) ✉️
+
+Let's connect! 😊
